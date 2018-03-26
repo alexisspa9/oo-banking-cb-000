@@ -4,6 +4,5 @@ class BankAccount
     @name = name
     @status = "open"
     @balance = 1000
-
   end
 end
